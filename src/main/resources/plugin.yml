@@ -1,0 +1,5 @@
+name: Test
+version: 1.0
+main: me.kubaw208.Test.main.Test
+api-version: 1.14
+author: kubaw208
