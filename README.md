@@ -1,5 +1,3 @@
 # Test
-Test minecraft plugin
-
-TEST <br><br>
-TEST
+Miłego korzystania z pluginu
+discord: <a href="www.google.com">test</a>
